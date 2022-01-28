@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: whitesmoke;
+  background-color: #f4f4f4f4;
+  color: #404040;
   margin: 0;
   padding: 0;
 }
@@ -88,3 +89,4 @@ form button {
   margin-top: 0;
   outline: 2px solid black;
 }
+/* Style current */
